@@ -1,31 +1,48 @@
-![logo](https://github.com/Hackeranuj/Hackeranuj/blob/main/Anuj%20Kumar.png)
-<h1 align="center">Hey!👋, I'm Anuj Kumar</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wingstechsolutions.com%2Fblog%2Ffeaturing-everything-about-full-stack-development%2F&psig=AOvVaw2q-CZ3zmDuSG6Ks5vONL1X&ust=1699162541438000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiYkfDPqYIDFQAAAAAdAAAAABAY](https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966)">
+<h1 align="center">👋 Hi, I'm Anuj Kumar</h1>
+<h3 align="center">🚀 Software Developer | Full-Stack Enthusiast | Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hackeranuj&label=Profile%20views&color=0e75b6&style=flat" alt="hackeranuj" /> </p>
-
-- 🌱 I’m currently learning *Data science||Flutter*
-
-- 📫 How to reach me **anujgahra244304@gmail.com**
-- <h3>╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣╠╗║╚╝║║╠╗║╚╣║║║║║═╣╚═╩══╩═╩═╩═╩╝╚╩═╩═➖➖➖➖➖➖➖➖➖➖➖➖➖</h3>
-
-- ⚡ Fun fact *I am so Funny 🤣*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@kumar18_anuj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kumar18_anuj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anuj kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj kumar" height="30" width="40" /></a>
-
-
-
-
-<a href="https://discord.gg/Anuj Kumar#8075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Anuj Kumar#8075" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=👨‍💻+Coding+My+Way+Through+Life;🚀+Building+Web+Apps+That+Matter;💡+Always+Learning+Something+New" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackeranuj&show_icons=true&locale=en&layout=compact" alt="hackeranuj" /></p>
+### 🧩 About Me
+- 🎓 I'm an **Information Technology Graduate** from **Rajkiya Engineering College, Azamgarh**
+- 💻 Passionate about **Web Development** and **React Ecosystem**
+- 🌱 Currently exploring **Next.js**, **TypeScript**, and **Tailwind CSS**
+- 🧠 Focused on building scalable, real-world **Full-Stack** projects
+- 🎯 Goal: To craft products that blend **creativity with technology**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackeranuj&" alt="hackeranuj" /></p>
+---
+
+### 🛠️ Tech Stack
+| Category | Technologies |
+|-----------|--------------|
+| **Frontend** | React.js · Next.js · Tailwind CSS · Chakra UI |
+| **Backend** | Node.js · Express.js · MongoDB |
+| **Mobile** | React Native · Expo |
+| **Tools** | Git · VS Code · Figma · Postman |
+| **Languages** | JavaScript · TypeScript · C++ · SQL |
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anujkumar&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anujkumar&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anujkumar&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🗓️ Daily Commit Simulation
+```bash
+# Start your day with a commit 🌅
+git add .
+git commit -m "✨ Improving code & learning new things daily"
+git push origin main
+
