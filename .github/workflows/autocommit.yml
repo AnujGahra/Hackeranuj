@@ -1,0 +1,20 @@
+name: Auto Commit
+
+on:
+  schedule:
+    - cron: '0 10 * * *'  # runs every day at 10:00 UTC
+  workflow_dispatch:
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Auto commit
+        run: |
+          date > last-updated.txt
+          git config --global user.name "Anuj Kumar"
+          git config --global user.email "anujkumargit@gmail.com"
+          git add .
+          git commit -m "🗓️ Auto update: $(date)"
+          git push
